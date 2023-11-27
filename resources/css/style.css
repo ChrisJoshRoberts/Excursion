@@ -3,13 +3,34 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-h1 {
+h1 , h2 , h3 {
     color: white;
-    font-size: 50px;
     font-weight: 100;
 }
 a{
     font-size: 16px;
-
     color: aquamarine;
+}
+
+.headline {
+    font-size: 50px;
+}
+.sub-headline {
+    font-size: 42px;;
+}
+.descriptor {
+    color: gray;
+    font-size: 21px;
+}
+.tent-img {
+    width: 70vw;
+}
+div {
+    padding: 32px;
+}
+p {
+    color: gray;
+}
+.footer {
+    text-align: right;
 }
